@@ -1,0 +1,1 @@
+{"root":["./src/env.d.ts","./src/main.ts","./src/vendor.d.ts","./src/core/base64.ts","./src/core/buffer.ts","./src/core/classify.ts","./src/core/hash.ts","./src/core/passport.ts","./src/core/path.ts","./src/core/security.ts","./src/core/share.ts","./src/core/types.ts","./src/core/validate.ts","./src/core/validatetext.ts","./src/core/zip.ts"],"version":"5.9.3"}
